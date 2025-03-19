@@ -1,0 +1,24 @@
+# Ignore dependencies
+node_modules/
+venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore ML model files
+*.hdf5
+*.pkl
+*.ckpt
+
+# Ignore environment files
+.env
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore build files
+dist/
+build/
